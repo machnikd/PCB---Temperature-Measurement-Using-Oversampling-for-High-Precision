@@ -35,7 +35,8 @@ A PCB was designed to achieve high-precision temperature measurements by exploit
 ## Project description and objectives
 
 ### Project goal
-      The goal of this project was to design a high-precision temperature sensor with an integrated display. The sensor exploits the amplified thermal noise of a resistor, which is introduced into the signal from a pair of thermistors arranged in a Wheatstone bridge. By applying oversampling combined with ADC averaging, the measurement precision is significantly improved. This method is described in STMicroelectronics application note https://www.st.com/resource/en/application_note/an5537-how-to-use-adc-oversampling-techniques-to-improve-signaltonoise-ratio-on-stm32-mcus-stmicroelectronics.pdf.
+      The goal of this project was to design a high-precision temperature sensor with an integrated display. The sensor exploits the amplified thermal noise of a resistor, which is introduced into the signal from a pair of thermistors arranged in a Wheatstone bridge. By applying oversampling combined with ADC averaging, the measurement precision is significantly improved. This method is described in STMicroelectronics application note:
+https://www.st.com/resource/en/application_note/an5537-how-to-use-adc-oversampling-techniques-to-improve-signaltonoise-ratio-on-stm32-mcus-stmicroelectronics.pdf.
    The project aimed to develop a temperature sensor capable of measuring temperatures in the range of 0–50 °C with a precision of up to 0,001 °C.
 
 ### Application
