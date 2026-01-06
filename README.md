@@ -42,9 +42,13 @@ https://www.st.com/resource/en/application_note/an5537-how-to-use-adc-oversampli
 
 ### Application
   The high-precision temperature sensor developed in this project can be applied in areas where ultra-accurate temperature measurement is critical. Potential applications include:
+
 Laboratory instrumentation – precise monitoring of environmental or sample temperatures.
+
 Calibration and metrology – as a reference sensor for calibrating other temperature-measuring devices.
+
 Medical equipment – monitoring temperatures in devices where small variations can impact results.
+
 Industrial process control – for processes requiring tight temperature tolerances, such as chemical reactions or semiconductor manufacturing.
 
 
