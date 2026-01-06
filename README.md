@@ -69,6 +69,7 @@ The figures illustrate the simulated circuit and the corresponding output voltag
 
 ![Schem_LTSpice](images/Schem_LTSpice.png)
 ![Vout_temp](images/Vout_temp.png)
+
 ![Noise](images/Noise.png)
 
 ### PCB design
