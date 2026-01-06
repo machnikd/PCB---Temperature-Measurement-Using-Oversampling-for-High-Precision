@@ -60,7 +60,7 @@ The PCB was designed in KiCad 9.0, where the schematic was created from scratch 
 ## Project results
 
 ### Schematic
-The components were selected to meet the project requirements while minimizing overall cost. The only exception is the STM32F301K6 microcontroller, which was chosen for its high sampling frequency of 5 MHz, essential for achieving the desired measurement precision.
+The components were selected to meet the project requirements while minimizing overall cost. The only exception is the STM32F301K6 microcontroller, which was chosen for its 12 bits ADC with high sampling frequency of 5 MSPS, essential for achieving the desired measurement precision. Thanks to the method described in the STM application note, the planned measurement precision is expected to be comparable to a 16 or 17 bit ADC.
 
 ![Schematic](images/Schematic.png)
 
